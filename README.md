@@ -157,7 +157,7 @@ Use these files to complete the implementation:
 ### Resources
 
 <details>
-<summary>Colors</summary>
+<summary>Colos</summary>
 
 <br/>
 
